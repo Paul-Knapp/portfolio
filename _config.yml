@@ -2,17 +2,16 @@ title: My Portfolio Site
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Paul Knapp"
+job: "Software Developer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+address: Appleton, United States
+email: ppankluap@gmail.com
+linkedin_username: www.linkedin.com/in/paul-m-knapp
+github_username: Paul-Knapp
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
 
@@ -42,14 +41,14 @@ exclude:
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Your awesome title
-#email: your-email@example.com
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Your awesome title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+ Write an awesome description for your new site here. You can edit this
+ line in _config.yml. It will appear in your document head meta (for
+ Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 
 ## Build settings

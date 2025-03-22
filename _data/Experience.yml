@@ -2,21 +2,17 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Amazon
+    role: Delivery Driver 
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Maintained a high degree of organization and accuracy while ensuring on time package delivery.
+      - Safely operated company vehicles while adhering to regulations and procedures.
+      - Conducted efficient planning to optimize delivery times.
+    date: Nov. 2022 - Aug 2024
+  - title: Jimmy Johns
+    role: Manager
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Led and supervised a team, ensuring the completion of many tasks in a fast paced environment.
+      - Managed inventory, supply ordering and cost control to maximize efficiency and minimize waste.
+      - Oversaw daily operations, ensuring adherence to policies and health/safety regulations
+    date: Feb. 2019 - Nov. 2022
