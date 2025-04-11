@@ -1,5 +1,5 @@
 subject: Projects
-listing-order: 3
+listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Tea Shop"
@@ -8,4 +8,11 @@ contents:
       - Application built over two days for Turing Module 3 Final project
       - "Technology Used: React, Javscript, Ruby, Rails, Cypress Testing, Rspec testing"
     image: "![](/assets/img/tea_shop.png)"
+
+  - title: "Mood Boost"
+    description:
+      - This application is a Built to Boost your mood with a variety of activities.
+      - Application Built fully from inception to MVP by a team of Five over the course of two weeks
+      - "Technology Used: React, Javascript, Ruby, Rails, Cypress Testing, Rspec testing"
+    image: "![](/assets/img/mood_boost.png)"
   

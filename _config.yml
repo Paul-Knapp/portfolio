@@ -5,13 +5,11 @@ icon_img: /assets/img/logo.png
 name: "Paul Knapp"
 job: "Software Developer"
 
-address: Appleton, United States
+address: Green Bay, United States
 email: ppankluap@gmail.com
 linkedin_username: www.linkedin.com/in/paul-m-knapp
 github_username: Paul-Knapp
-# instagram_username: instagram
-# twitter_username: twitter
-# facebook_username: facebook
+
 
 theme: jekyll-professional-resume
 
