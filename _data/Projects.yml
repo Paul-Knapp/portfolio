@@ -7,12 +7,12 @@ contents:
       - This application is a Administrator view of an application to view tea subscriptions with the ability to cancel them and view details of each subscription.
       - Application built over two days for Turing Module 3 Final project
       - "Technology Used: React, Javscript, Ruby, Rails, Cypress Testing, Rspec testing"
-    image: <img src="/assets/img/tea_shop.png" alt="Tea Shop Image"/>
+    image: <img src="assets/img/tea_shop.png" alt="Tea Shop Image"/>
 
   - title: "Mood Boost"
     description:
       - This application is a Built to Boost your mood with a variety of activities.
       - Application Built fully from inception to MVP by a team of Five over the course of two weeks
       - "Technology Used: React, Javascript, Ruby, Rails, Cypress Testing, Rspec testing"
-    image: <img src="/assets/img/mood_boost.png" alt="Mood Boost Image"/>
+    image: <img src="assets/img/mood_boost.png" alt="Mood Boost Image"/>
   
