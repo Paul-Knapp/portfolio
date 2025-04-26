@@ -3,4 +3,4 @@ listing-order: 5
 icon: "/assets/img/clipboard-list.svg"
 contents:
  - image: <img src="assets/img/resume.png" alt="Resume Image"/>
- - link: "https://docs.google.com/document/d/1K_CfLEDXwz6AH7DpIt9_Z9kpfbnICBopEkMqWtT4uHs/edit?tab=t.0#heading=h.dtkb7uw4xb1g"
+ - link: "[website](https://docs.google.com/document/d/1K_CfLEDXwz6AH7DpIt9_Z9kpfbnICBopEkMqWtT4uHs/edit?tab=t.0#heading=h.dtkb7uw4xb1g)"
